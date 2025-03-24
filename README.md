@@ -1,4 +1,4 @@
-## PCA Code
+## PCA code
 
 This package contains three python scripts. `pca_public` is the main Principal Component Analysis (PCA) script and `pca_functions.py` contains all the functions used by it. `pcatest.py` is a minimal working example of the PCA code, if you are interested in using PCA for other applications than X-ray spectra, I suggest you start there.
 
@@ -62,7 +62,9 @@ Feel free to modify, deface, share, distribute, dismantle, and otherwise dispers
 If you have comments or questions, contact me at mparker@sciops.esa.int (expired!)
 
 
-### Publications
+### Acknowledgement
+
+If you employ the PCA code in your work, please acknowledge the usage by citing the following references:
 	
 * Parker M. L., Fabian A. C., Matt G., Koljonen K. I. I., Kara E., Alston W., Walton D. J., et al., 2015, [MNRAS, 447, 72](https://ui.adsabs.harvard.edu/abs/2015MNRAS.447...72P/abstract). doi:[10.1093/mnras/stu2424](https://doi.org/10.1093/mnras/stu2424)
 
