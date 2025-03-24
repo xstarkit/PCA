@@ -1,6 +1,6 @@
 ## PCA Code
 
-This package contains three python scripts. `pca_public` is the main PCA script and `pca_functions.py` contains all the functions used by it. `pcatest.py` is a minimal working example of the PCA code, if you are interested in using PCA for other applications than X-ray spectra, I suggest you start there.
+This package contains three python scripts. `pca_public` is the main Principal Component Analysis (PCA) script and `pca_functions.py` contains all the functions used by it. `pcatest.py` is a minimal working example of the PCA code, if you are interested in using PCA for other applications than X-ray spectra, I suggest you start there.
 
 ### Required Python Modules
  - `numpy`
