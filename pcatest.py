@@ -1,5 +1,7 @@
 #!/bin/python
 
+# Author: Michael L. Parker
+
 import pylab as p
 import numpy as n
 from numpy.linalg import svd

@@ -1,5 +1,7 @@
 #!/bin/python
 
+# Author: Michael L. Parker
+
 from pca_functions import *
 
 ### Settings - see readme file, some of these will need changing.

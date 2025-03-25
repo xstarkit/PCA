@@ -1,4 +1,7 @@
 #!/bin/python
+
+# Author: Michael L. Parker
+
 from numpy.linalg import svd
 import numpy as n
 # import nimfa
