@@ -16,7 +16,7 @@ Most of these are standard modules, generally included with python distributions
 
 ### Important
 
-You will need to change some of the settings before the code will run. These are at the start of `pca_public.py`. The code assumes a certain directory structure and file naming system, you can change these by modifying the dir_stem and file_stem variables. The spectral files are assumed to be in directories of the form 'Xs', where $X$ is the timestep in seconds.
+You will need to change some of the settings before the code will run. These are at the start of `pca_public.py`. The code assumes a certain directory structure and file naming system, you can change these by modifying the dir_stem and file_stem variables. The spectral files are assumed to be in directories of the form 'Xs', where X is the timestep in seconds.
 
 The `rmf_path` variable will need to be changed - this should point to a response matrix for the detector being used, and is used to convert between spectral channel and energy bin.
 
