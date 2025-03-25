@@ -1,6 +1,7 @@
 #!/bin/python
 
 # Author: Michael L. Parker
+# Last Modification: 23 Feb 2015
 
 import pylab as p
 import numpy as n
